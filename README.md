@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzharAnsari876
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML, CSS.
+- 🌱 I’m currently teaching Full Stack Web Development and Data Analytics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me azharansari.876@gmail.com
 
